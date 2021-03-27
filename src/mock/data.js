@@ -56,21 +56,21 @@ export const projectsData = [
     url: 'https://eunjintodolist.netlify.app/',
     repo: 'https://github.com/eunjin0212/React-ToDoList.git', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: 'KakaoTalk Clone',
-    info: '',
-    info2: '✅ 특징',
-    info3: '',
-    info4: '',
-    info5: '',
-    info6: '',
-    info7: '',
-    info8: '',
-    url: 'https://reactkakao.netlify.app/#/',
-    repo: 'https://github.com/eunjin0212', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'project.jpg',
+  //   title: 'KakaoTalk Clone',
+  //   info: '',
+  //   info2: '✅ 특징',
+  //   info3: '',
+  //   info4: '',
+  //   info5: '',
+  //   info6: '',
+  //   info7: '',
+  //   info8: '',
+  //   url: 'https://reactkakao.netlify.app/#/',
+  //   repo: 'https://github.com/eunjin0212', // if no repo, the button will not show up
+  // },
 ];
 
 // CONTACT DATA
