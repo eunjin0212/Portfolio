@@ -49,7 +49,7 @@ export const projectsData = [
     info2: '✅ 특징',
     info3: '• 리스트에 할 일 추가하기',
     info4: '• 추가 된 리스트 수정하기',
-    info5: '• 추가 된 리스트 완료하기',
+    info5: '• 추가 된 리스트 완료하기, 완료 취소 기능 추가',
     info6: '• 완료된 할 일과 추가 된 리스트를 확인하여, 목표 달성 프로그래스 바 구현',
     info7: '• React-Hooks 사용 > TSX로 변환',
     info8: '',
