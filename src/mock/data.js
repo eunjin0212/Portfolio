@@ -51,7 +51,7 @@ export const projectsData = [
     info4: '• 추가 된 리스트 수정하기',
     info5: '• 추가 된 리스트 완료하기',
     info6: '• 완료된 할 일과 추가 된 리스트를 확인하여, 목표 달성 프로그래스 바 구현',
-    info7: '• 반응형 스크린 React-Hooks 사용 > TSX로 변환',
+    info7: '• React-Hooks 사용 > TSX로 변환',
     info8: '',
     url: 'https://eunjintodolist.netlify.app/',
     repo: 'https://github.com/eunjin0212/React-ToDoList.git', // if no repo, the button will not show up
