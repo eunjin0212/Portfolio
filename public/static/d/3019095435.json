@@ -77,8 +77,8 @@
             }
           }
         },
-        { "node": { "relativePath": "404.js", "name": "404", "childImageSharp": null } },
-        { "node": { "relativePath": "index.js", "name": "index", "childImageSharp": null } }
+        { "node": { "relativePath": "index.js", "name": "index", "childImageSharp": null } },
+        { "node": { "relativePath": "404.js", "name": "404", "childImageSharp": null } }
       ]
     }
   }

@@ -22,7 +22,7 @@ export const aboutData = {
   paragraphTwo: '',
   paragraphThree: '',
   paragraphFour: '',
-  resume: '',
+  resume: 'https://www.jobkorea.co.kr/User/Resume/View?rNo=17931846',
 };
 
 // PROJECTS DATA
@@ -56,21 +56,6 @@ export const projectsData = [
     url: 'https://eunjintodolist.netlify.app/',
     repo: 'https://github.com/eunjin0212/React-ToDoList.git', // if no repo, the button will not show up
   },
-  // {
-  //   id: nanoid(),
-  //   img: 'project.jpg',
-  //   title: '',
-  //   info: ''Shopping Mall Web Page,
-  //   info2: '✅ 특징',
-  //   info3: '• 로그인 기능',
-  //   info4: '• 상품 등록 기능',
-  //   info5: '• ',
-  //   info6: '',
-  //   info7: '',
-  //   info8: '',
-  //   url: '',
-  //   repo: 'https://github.com/eunjin0212', // if no repo, the button will not show up
-  // },
 ];
 
 // CONTACT DATA
