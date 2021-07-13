@@ -57,6 +57,21 @@ export const projectsData = [
     url: 'https://eunjintodolist.netlify.app/',
     repo: 'https://github.com/eunjin0212/React-ToDoList.git', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'project2.png',
+    title: '롤 이벤트 페이지 클론',
+    info: '동영상 배경 이벤트 폼 페이지',
+    info2: '✅ 특징',
+    info3: '• SCSS로 스타일 구현',
+    info4: '• 반응형 CSS',
+    info5: '• Jquery와 JavaScript로 동적 기능 구현',
+    info6: '• 모바일 환경에서 볼 수 있는 기능 구현',
+    info7: '자세한 사항은 README.md를 확인해주세요',
+    info8: '',
+    url: 'https://mobilehellopet.netlify.app/',
+    repo: 'https://github.com/eunjin0212/Academy/tree/master/m_hellopet', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
