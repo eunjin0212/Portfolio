@@ -22,7 +22,8 @@ export const aboutData = {
   paragraphTwo: '',
   paragraphThree: '',
   paragraphFour: '',
-  resume: 'https://www.jobkorea.co.kr/User/Resume/View?rNo=17931846',
+  resume:
+    'https://github.com/eunjin0212/Portfolio/blob/master/src/components/About/%EC%9D%B4%EB%A0%A5%EC%84%9C_20210608.pdf',
 };
 
 // PROJECTS DATA
