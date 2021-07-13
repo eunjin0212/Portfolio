@@ -6,7 +6,7 @@
   border-top: 0px;
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
   clip-path: polygon(0 0, 100% 0, 100% 70%, 0 100%);
-  padding: 18% 0;
+  padding: 10% 0 18% 0;
 
   @include respond(tab-land) {
     height: 100%;
