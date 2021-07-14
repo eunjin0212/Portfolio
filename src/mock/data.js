@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphThree: '',
   paragraphFour: '',
   resume:
-    'https://github.com/eunjin0212/Portfolio/blob/master/src/components/About/%EC%9D%B4%EB%A0%A5%EC%84%9C_20210713.pdf',
+    'https://github.com/eunjin0212/Portfolio/blob/master/src/components/About/%EC%9D%B4%EB%A0%A5%EC%84%9C_20210714.pdf',
 };
 
 // PROJECTS DATA
