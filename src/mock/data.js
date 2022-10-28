@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphThree: '',
   paragraphFour: '',
   resume:
-    'https://github.com/eunjin0212/Portfolio/blob/master/src/components/About/%EC%9D%B4%EB%A0%A5%EC%84%9C_20210720.pdf',
+    'https://www.rocketpunch.com/@eunjin9639/jobhunt',
 };
 
 // PROJECTS DATA
@@ -57,21 +57,6 @@ export const projectsData = [
     url: 'https://eunjintodolist.netlify.app/',
     repo: 'https://github.com/eunjin0212/React-ToDoList.git', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'project3.jpg',
-    title: '모바일 Hello Pet 사이트 클론',
-    info: '반응형 모바일 웹 (페이지는 모바일에서 봐주세요!)',
-    info2: '✅ 특징',
-    info3: '• SCSS로 스타일 구현',
-    info4: '• 반응형 CSS',
-    info5: '• Jquery와 JavaScript로 동적 기능 구현',
-    info6: '• 모바일 환경에서 볼 수 있는 기능 구현',
-    info7: '• 동료들과 협업 후 보안해야할 기능 수정',
-    info8: '자세한 사항은 README.md를 확인해주세요',
-    url: 'https://mobilehellopet.netlify.app/',
-    repo: 'https://github.com/eunjin0212/Academy/tree/master/m_hellopet', // if no repo, the button will not show up
-  },
 ];
 
 // CONTACT DATA
@@ -88,6 +73,11 @@ export const footerData = {
       id: nanoid(),
       name: 'github',
       url: 'https://github.com/eunjin0212',
+    },
+     {
+      id: nanoid(),
+      name: 'blog',
+      url: 'https://eunjin0212.github.io/',
     },
   ],
 };
