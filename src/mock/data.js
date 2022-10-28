@@ -59,7 +59,7 @@ export const projectsData = [
   }, 
   {
     id: nanoid(),
-    img: 'project4.png',
+    img: 'project3.png',
     title: 'Nomflix',
     info: '영화 검색, 별점까지 보여주는 영화 목록 사이트 입니다.',
     info2: '✅ 특징',
