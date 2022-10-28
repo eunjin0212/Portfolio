@@ -52,19 +52,6 @@ const About = () => {
                 <p className="about-wrapper__info-text">
                   {paragraphFour || '또 꾸준한 자기 계발로 오래 남는 개발자가 되는 것이 꿈이에요.'}
                 </p>
-//                 {resume && (
-//                   <span className="d-flex mt-3">
-//                     <a
-//                       target="_blank"
-//                       rel="noopener noreferrer"
-//                       className="cta-btn cta-btn--resume"
-//                       href={resume}
-//                     >
-//                       Resume
-//                       {/* 여기 스킬 넣기 */}
-//                     </a>
-//                   </span>
-//                 )}
               </div>
             </Fade>
           </Col>
