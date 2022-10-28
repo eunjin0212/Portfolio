@@ -37,18 +37,18 @@ const About = () => {
           <Col md={6} sm={12}>
             <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">
               <div className="about-wrapper__info">
-                <p className="about-wrapper__info-text">{paragraphOne || '안녕하세요.'}</p>
+                <p className="about-wrapper__info-text">{paragraphOne || '안녕하세요!'}</p>
                 <p className="about-wrapper__info-text">
-                  {paragraphOne || '행복한 Front-end 개발자 김은진 입니다.'}
+                  {paragraphOne || '더 나은 코드를 작성하기 위해 끊임없이 고민하는 프론트엔드 개발자 김은진이라고 합니다.'}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphTwo || '좋은 사람들과 즐거운 개발을 하고 싶어요.'}
+                  {paragraphTwo || '저는 어떻게 하면 편한 서비스를 제공할 수 있을까 하는 고민 들을 즐겨 하는 편이에요.'}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphThree || '끊임없이 노력하고 배워나가는 '}
+                  {paragraphThree || '종종 번쩍이는 아이디어로 사람들에게 칭찬받는 것을 좋아하죠. '}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphFour || '주니어가 되겠습니다.'}
+                  {paragraphFour || '또 꾸준한 자기 계발로 오래 남는 개발자가 되는 것이 꿈이에요.'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
