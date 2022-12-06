@@ -90,7 +90,7 @@ export const footerData = {
     },
     {
       id: nanoid(),
-      name: 'blog fa-solid',
+      name: 'blog',
       icon: 'fa-solid fa-blog',
       url: 'https://eunjin0212.github.io/',
     },
