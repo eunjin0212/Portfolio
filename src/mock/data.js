@@ -85,14 +85,14 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'github',
-      icon: '<i class="fa-brands fa-github"></i>',
+      icon: 'fa-brands fa-github',
       url: 'https://github.com/eunjin0212',
     },
     {
       id: nanoid(),
       name: 'blog fa-solid',
-      icon: '<i class="fa-solid fa-blog"></i>',
+      icon: 'fa-solid fa-blog',
       url: 'https://eunjin0212.github.io/',
     },
-  ],
+  ]
 };
