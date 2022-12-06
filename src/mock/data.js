@@ -22,8 +22,7 @@ export const aboutData = {
   paragraphTwo: '',
   paragraphThree: '',
   paragraphFour: '',
-  resume:
-    'https://www.rocketpunch.com/@eunjin9639/jobhunt',
+  resume: 'https://www.rocketpunch.com/@eunjin9639/jobhunt',
 };
 
 // PROJECTS DATA
@@ -56,7 +55,7 @@ export const projectsData = [
     info8: '',
     url: 'https://eunjintodolist.netlify.app/',
     repo: 'https://github.com/eunjin0212/React-ToDoList.git', // if no repo, the button will not show up
-  }, 
+  },
   {
     id: nanoid(),
     img: 'project3.png',
@@ -88,7 +87,7 @@ export const footerData = {
       name: 'brands fa-github',
       url: 'https://github.com/eunjin0212',
     },
-     {
+    {
       id: nanoid(),
       name: 'blog fa-solid',
       url: 'https://eunjin0212.github.io/',
