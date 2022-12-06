@@ -84,12 +84,14 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'brands fa-github',
+      name: 'github',
+      icon: '<i class="fa-brands fa-github"></i>',
       url: 'https://github.com/eunjin0212',
     },
     {
       id: nanoid(),
       name: 'blog fa-solid',
+      icon: '<i class="fa-solid fa-blog"></i>',
       url: 'https://eunjin0212.github.io/',
     },
   ],

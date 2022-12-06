@@ -6,7 +6,6 @@ import PortfolioContext from '../../context/context';
 const Footer = () => {
   const { footer } = useContext(PortfolioContext);
   const { networks } = footer;
-
   return (
     <footer className="footer navbar-static-bottom">
       <Container>
@@ -27,7 +26,7 @@ const Footer = () => {
                   target="_blank"
                   aria-label={name}
                 >
-                  <i className={`fa-${name || 'refresh'} fa-inverse`} />
+                  {icon}
                 </a>
               );
             })}
