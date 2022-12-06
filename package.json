@@ -71,6 +71,10 @@
       "pre-commit": "lint-staged"
     }
   },
+  "engines" : { 
+    "npm" : ">=8.19.2",
+    "node" : ">=18.0.0"
+  },
   "lint-staged": {
     "*.+(js|jsx)": [
       "eslint --fix",
