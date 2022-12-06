@@ -1,3 +1,4 @@
+@charset "utf-8";
 @import './abstracts/mixins';
 @import './abstracts/variables';
 @import './abstracts/helpers';
@@ -15,4 +16,4 @@
 @import './sections/hero';
 @import './sections/projects';
 
-@import './vendor/css/font-awesome.min.css';
+@import './vendor/css/all.min.css';
