@@ -94,5 +94,5 @@ export const footerData = {
       icon: 'fa-solid fa-blog',
       url: 'https://eunjin0212.github.io/',
     },
-  ]
+  ],
 };

@@ -5,6 +5,16 @@ module.exports = {
     browser: true,
     es6: true,
   },
+  parser: '@babel/eslint-parser',
+  parserOptions: {
+    requireConfigFile: false,
+    babelOptions: {
+      babelrc: false,
+      configFile: false,
+      // your babel options
+      presets: ['@babel/preset-env'],
+    },
+  },
   rules: {
     'import/no-extraneous-dependencies': 'off',
     'prettier/prettier': [
@@ -20,5 +30,4 @@ module.exports = {
     'react/jsx-props-no-spreading': 'off', // disable if necessary
     'react/require-default-props': 'off',
   },
-  parser: 'babel-eslint',
 };

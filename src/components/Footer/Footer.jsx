@@ -17,7 +17,7 @@ const Footer = () => {
         <div className="social-links">
           {networks &&
             networks.map((network) => {
-              const { id, name, url } = network;
+              const { id, name, url, icon } = network;
               return (
                 <a
                   key={id}

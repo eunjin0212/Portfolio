@@ -41,11 +41,15 @@ const About = () => {
                 <p className="about-wrapper__info-text">
                   {paragraphOne || '더 나은 코드를 작성하기 위해 끊임없이 고민하는'}
                 </p>
-                <p className="about-wrapper__info-text">{paragraphOne || '프론트엔드 개발자 김은진이라고 합니다.'}</p>
+                <p className="about-wrapper__info-text">
+                  {paragraphOne || '프론트엔드 개발자 김은진이라고 합니다.'}
+                </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo || '저는 어떻게 하면 편한 서비스를 제공할 수 있을까 '}
                 </p>
-                <p className="about-wrapper__info-text">{paragraphOne || '하는 고민 들을 즐겨 하는 편이에요 :)'}</p>
+                <p className="about-wrapper__info-text">
+                  {paragraphOne || '하는 고민 들을 즐겨 하는 편이에요 :)'}
+                </p>
                 <p className="about-wrapper__info-text">
                   {paragraphThree || '종종 번쩍이는 아이디어로 사람들에게 칭찬받는 것을 좋아하죠. '}
                 </p>
